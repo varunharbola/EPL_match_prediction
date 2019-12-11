@@ -1,0 +1,15 @@
+NN accuracy for 5 nodes =0.579710144928
+NN accuracy for 6 nodes =0.581027667984
+NN accuracy for 7 nodes =0.582345191041
+NN accuracy for 8 nodes =0.588932806324
+NN accuracy for 9 nodes =0.577075098814
+NN accuracy for 10 nodes =0.579710144928
+NN accuracy for 11 nodes =0.591567852437
+NN accuracy for 12 nodes =0.587615283267
+NN accuracy for 13 nodes =0.573122529644
+NN accuracy for 14 nodes =0.582345191041
+NN accuracy for 15 nodes =0.583662714097
+NN accuracy for 16 nodes =0.581027667984
+NN accuracy for 17 nodes =0.586297760211
+NN accuracy for 18 nodes =0.574440052701
+NN accuracy for 19 nodes =0.578392621871
